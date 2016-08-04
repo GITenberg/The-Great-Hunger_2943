@@ -1,0 +1,42 @@
+_repo: The-Great-Hunger_2943
+_version: 0.0.1
+alternative_title: Den store hunger. English
+contributor:
+  translators:
+  - agent_name: Worster, W. J. Alexander (William John Alexander)
+    aliases:
+    - Worster, W. W.
+    - Worster, William John Alexander
+    birthdate: 1882
+    deathdate: 1929
+    gutenberg_agent_id: '2514'
+    url: http://www.gutenberg.org/2009/agents/2514
+  - agent_name: Archer, Charles
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '4543'
+    url: http://www.gutenberg.org/2009/agents/4543
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Archer
+creator:
+  author:
+    agent_name: Bojer, Johan
+    birthdate: 1872
+    deathdate: 1959
+    gutenberg_agent_id: '1069'
+    url: http://www.gutenberg.org/2009/agents/1069
+    wikipedia: http://en.wikipedia.org/wiki/Johan_Bojer
+description: Life of an engineer.
+gutenberg_issued: '2006-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2943'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- Fiction'
+- !lcc 'PT'
+- GITenberg
+title: The Great Hunger
+url: http://www.gutenberg.org/ebooks/2943
