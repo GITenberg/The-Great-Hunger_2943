@@ -1,5 +1,5 @@
 _repo: The-Great-Hunger_2943
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Den store hunger. English
 contributor:
   translators:
@@ -17,6 +17,9 @@ contributor:
     gutenberg_agent_id: '4543'
     url: http://www.gutenberg.org/2009/agents/4543
     wikipedia: http://en.wikipedia.org/wiki/Charles_Archer
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bojer, Johan
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1069
     wikipedia: http://en.wikipedia.org/wiki/Johan_Bojer
 description: Life of an engineer.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2943#The-Great-Hunger
 gutenberg_issued: '2006-05-30'
 gutenberg_type: Text
 identifiers:
